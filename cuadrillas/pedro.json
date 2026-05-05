@@ -1,0 +1,5 @@
+[
+    {"nombre": "Mateo", "nacionalidad": "Rumano", "edad": 30, "especialidad": "Mandarina", "cajas": 48},
+    {"nombre": "Carlos", "nacionalidad": "Español", "edad": 42, "especialidad": "Limón", "cajas": 40},
+    {"nombre": "Santi", "nacionalidad": "Uruguayo", "edad": 26, "especialidad": "Naranja", "cajas": 41}
+]
